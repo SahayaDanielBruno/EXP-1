@@ -97,12 +97,12 @@ Tabulation:
 
 a.   KVL:
  
-![BEEE EX 1](https://github.com/user-attachments/assets/b8424df7-347f-4594-88b4-dc9ced4ed345)
+![WhatsApp Image 2025-10-17 at 8 00 39 PM](https://github.com/user-attachments/assets/e2bda7f2-6943-4be2-9adb-0432e7656537)
 
 
 b.  KCL:
 
-![EX 1 BEE](https://github.com/user-attachments/assets/ea71bfa7-5aed-404a-b7b8-d897677add13)
+![WhatsApp Image 2025-10-17 at 8 00 39 PM (1)](https://github.com/user-attachments/assets/76121c3c-87b7-467f-bd0a-9374fca6ad57)
 
 
 RESULT:
